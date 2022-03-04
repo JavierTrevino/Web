@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+
+.menu {
+    background-color: rgba(170, 170, 170, 0.63);
+    padding: 1%;
+    border-radius: 15px;
+}
+
+img {
+    width: 50%;
+    height: 250px;
+}
